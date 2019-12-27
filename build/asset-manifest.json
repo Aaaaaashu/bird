@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bird/static/css/main.bb6b9b86.chunk.css",
+    "main.js": "/bird/static/js/main.04c022f7.chunk.js",
+    "main.js.map": "/bird/static/js/main.04c022f7.chunk.js.map",
+    "runtime-main.js": "/bird/static/js/runtime-main.d3b28397.js",
+    "runtime-main.js.map": "/bird/static/js/runtime-main.d3b28397.js.map",
+    "static/js/2.9019707f.chunk.js": "/bird/static/js/2.9019707f.chunk.js",
+    "static/js/2.9019707f.chunk.js.map": "/bird/static/js/2.9019707f.chunk.js.map",
+    "index.html": "/bird/index.html",
+    "precache-manifest.b08d68ede3ecce2dd547bba95bae99e0.js": "/bird/precache-manifest.b08d68ede3ecce2dd547bba95bae99e0.js",
+    "service-worker.js": "/bird/service-worker.js",
+    "static/css/main.bb6b9b86.chunk.css.map": "/bird/static/css/main.bb6b9b86.chunk.css.map",
+    "static/js/2.9019707f.chunk.js.LICENSE": "/bird/static/js/2.9019707f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3b28397.js",
+    "static/js/2.9019707f.chunk.js",
+    "static/css/main.bb6b9b86.chunk.css",
+    "static/js/main.04c022f7.chunk.js"
+  ]
+}

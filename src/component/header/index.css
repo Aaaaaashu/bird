@@ -1,0 +1,15 @@
+.header {
+  text-align: left;
+  color: #111;
+}
+
+.header-title {
+  margin: 16px 0 0 0;
+}
+
+.header-desc {
+  font-size: 14px;
+  color: #525050;
+  margin: 4px 0 24px 0;
+  font-weight: 500;
+}

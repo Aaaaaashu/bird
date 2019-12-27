@@ -1,0 +1,91 @@
+html * {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #ffd439;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-container {
+  background-color: #ffd439;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+  padding: 1em;
+}
+
+.card-white {
+  background-color: #fff;
+  border-radius: 26px;
+  padding: 28px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card {
+  background-color: #292b2f;
+  border-radius: 26px;
+  padding: 28px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card-header {
+  text-align: left;
+  word-break: break-all;
+}
+
+.card-title {
+  margin-top: 0;
+  margin-bottom: 6px;
+  font-size: 21px;
+}
+
+.card-content {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.button-container {
+  display: flex;
+  margin-top: 40px;
+}
+
+.MuiButton-contained {
+  color: rgba(0, 0, 0, 0.87) !important;
+  background-color: #ffd439 !important;
+  margin-top: 20px !important;
+  font-weight: bold !important;
+}
+
+.copy,
+.share {
+  background-color: #ffd439;
+  height: 52px;
+  flex: 1;
+  margin: 0 10px;
+  font-size: 18px;
+  padding: 10px;
+  font-weight: 500;
+  border-radius: 6px;
+}
+
+.copy {
+  background-color: #ffeeb1;
+}
